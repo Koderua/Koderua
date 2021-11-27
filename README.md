@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Koderua
+- 👋 Hi, I’m @Koderua (Kibirt)
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on nothing yet

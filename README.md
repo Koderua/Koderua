@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development
 - 🌱 I’m currently learning Frontend
 - 💞️ I’m looking to collaborate on nothing yet
-- 📫 How to reach me kibirtbayou@yahoo.com
+- 📫 How to reach me kibirtbayouc@gmail.com
 
 <!---
 Koderua/Koderua is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

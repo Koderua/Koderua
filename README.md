@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Koderua (Kibirt)
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Frontend
-- 💞️ I’m looking to collaborate on nothing yet
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently taking courses
+- 💞️ I’m looking to collaborate on an exciting ds project
 - 📫 How to reach me kibirtbayouc@gmail.com
 
 <!---
